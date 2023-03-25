@@ -16,3 +16,19 @@
 8. [Positional Maxima and minima](https://colab.research.google.com/drive/1wzhqe8kvVO4IHiLjop4jbcBFSZGrPQuH#scrollTo=hnMyNR_RO_CU)
 9. [Edit dimension of tensor (Squeezing) and more..](https://colab.research.google.com/drive/1wzhqe8kvVO4IHiLjop4jbcBFSZGrPQuH#scrollTo=Kmpt3-jgO_CU&line=1&uniqifier=1)
 10. [Using tensorflow with Numpy](https://colab.research.google.com/drive/1wzhqe8kvVO4IHiLjop4jbcBFSZGrPQuH#scrollTo=IvGVCTMYda5o)
+
+## *Part2:-[Neural Network Regression](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=k6oqVFrjWPK5)*
+*Neural network regression is a supervised learning method, and therefore requires a tagged dataset, which includes a label column. Because a regression model predicts a numerical value, the label column must be a numerical data type.This notebook includes the basic neural network models as we are only doing regression starting with creating a custom dataset and eventually working on Insurance dataset avaiable on kaggle.*
+
+**The structure of notebook is as follows:-**
+1. [Introduction of Neural Network](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=xGc1U1ZWGPZW)
+2. [Check Input & Output Shape of any Dataset](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=d3gi4hqsJ5sv)
+3. [Steps of Modeling in Tensorflow](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=k6oqVFrjWPK5)
+4. [Tips to Improve our Model](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=rQUkOwz2pVLQ)
+5. [Increase efficience Model](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=u_rPjZ-9uwzI)
+6. [Evaluation & Visualization of Model](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=uPnIKv9SuecO)
+7. [Create a Ploting function](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=BedKNZD52-am)
+8. [Tracking and Saving any Model](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=AvdNGTc_Fpyw)
+9. [Creating a Insurance Model](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=vZjYOdwRc4zf)
+10. [Preprocesssing with Normalizatio](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=Q7PC_69WblJ5)
+
