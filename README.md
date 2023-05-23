@@ -32,3 +32,25 @@
 9. [Creating a Insurance Model](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=vZjYOdwRc4zf)
 10. [Preprocesssing with Normalizatio](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=Q7PC_69WblJ5)
 
+## *Part3:-[Neural Network Classification](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=k6oqVFrjWPK5)*
+*Neural network Classification is another supervised learning method,here we classify the given value based on the dataset on which the model is created also learn about getting optimal learning rate of any optimizer,various activation layers for different dataSet, Visualizing the Classification using PlotDecisionBoundary Function,etc*
+
+**Types of _Classification Problems_**
+
+* `Email`-'Spam' or 'Not Spam' a perfect example of **Binary classification**.
+
+* `ImageClassification` - like 'Cat' , 'Dog' and 'Person' etc is called **Multiclass Classification**.
+
+* `TagsPrediction` - in a wikipedia page "what tags should this page include?" is called **MultiLabel Classification**. 
+
+**The structure of notebook is as follows:-**
+1. [Introduction of Neural Network Classification](https://colab.research.google.com/github/pravincoder/Fundamentals_tensorflow/blob/main/Part3_Tensorflow_Neural_Network_Classification.ipynb#scrollTo=ViWNe0ci3HxP&line=7&uniqifier=1)
+2. [Creating a Dataset of 2 circles using pandas](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=d3gi4hqsJ5sv)
+3. [Binary Classification Model using Tensorflow](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=k6oqVFrjWPK5)
+4. [Visualize models Loss v/s Accuracy and Evaluate](https://colab.research.google.com/github/pravincoder/Fundamentals_tensorflow/blob/main/Part3_Tensorflow_Neural_Network_Classification.ipynb#scrollTo=yRqrJxvFUEJm&line=2&uniqifier=1)
+5. [Create a Plot_Decision_Boundary Fuction](https://colab.research.google.com/github/pravincoder/Fundamentals_tensorflow/blob/main/Part3_Tensorflow_Neural_Network_Classification.ipynb#scrollTo=A1DpWVt-cT3z&line=4&uniqifier=1)
+6. [Non-Linearity](https://colab.research.google.com/github/pravincoder/Fundamentals_tensorflow/blob/main/Part3_Tensorflow_Neural_Network_Classification.ipynb#scrollTo=gMvqGI0FxV2_)
+7. [Different Tf Layers Activation Function](https://colab.research.google.com/github/pravincoder/Fundamentals_tensorflow/blob/main/Part3_Tensorflow_Neural_Network_Classification.ipynb#scrollTo=_nTh8Pi1AWai&line=2&uniqifier=1)
+8. [Visualizing the test and Train Results ](https://colab.research.google.com/github/pravincoder/Fundamentals_tensorflow/blob/main/Part3_Tensorflow_Neural_Network_Classification.ipynb#scrollTo=vXzIlQgyrIs4&line=7&uniqifier=1)
+9. [Finding the Best Learning Rate](https://colab.research.google.com/github/pravincoder/Fundamentals_tensorflow/blob/main/Part3_Tensorflow_Neural_Network_Classification.ipynb#scrollTo=qR0HU5z8zgNq)
+10. [Prettify Our Confusion Matrix](https://colab.research.google.com/github/pravincoder/Fundamentals_tensorflow/blob/main/Part3_Tensorflow_Neural_Network_Classification.ipynb#scrollTo=94tkeO1hbSyH)
