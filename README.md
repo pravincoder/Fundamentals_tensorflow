@@ -17,7 +17,7 @@
 9. [Edit dimension of tensor (Squeezing) and more..](https://colab.research.google.com/drive/1wzhqe8kvVO4IHiLjop4jbcBFSZGrPQuH#scrollTo=Kmpt3-jgO_CU&line=1&uniqifier=1)
 10. [Using tensorflow with Numpy](https://colab.research.google.com/drive/1wzhqe8kvVO4IHiLjop4jbcBFSZGrPQuH#scrollTo=IvGVCTMYda5o)
 
-## *Part2:-[Neural Network Regression](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=k6oqVFrjWPK5)*
+## *Part 2 :- [Neural Network Regression](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=k6oqVFrjWPK5)*
 *Neural network regression is a supervised learning method, and therefore requires a tagged dataset, which includes a label column. Because a regression model predicts a numerical value, the label column must be a numerical data type.This notebook includes the basic neural network models as we are only doing regression starting with creating a custom dataset and eventually working on Insurance dataset avaiable on kaggle.*
 
 **The structure of notebook is as follows:-**
@@ -32,16 +32,16 @@
 9. [Creating a Insurance Model](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=vZjYOdwRc4zf)
 10. [Preprocesssing with Normalizatio](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=Q7PC_69WblJ5)
 
-## *Part3:-[Neural Network Classification](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=k6oqVFrjWPK5)*
+## *Part 3 :- [Neural Network Classification](https://colab.research.google.com/drive/1cqSMkzp0-A_FQM3Pb0f8jtaUbYyJaWo9#scrollTo=k6oqVFrjWPK5)*
 *Neural network Classification is another supervised learning method,here we classify the given value based on the dataset on which the model is created also learn about getting optimal learning rate of any optimizer,various activation layers for different dataSet, Visualizing the Classification using PlotDecisionBoundary Function,etc*
 
 **Types of _Classification Problems_**
 
-* `Email`-'Spam' or 'Not Spam' a perfect example of **Binary classification** present in [**Part4**]
+* `Email`-'Spam' or 'Not Spam' a perfect example of **Binary classification** present in [**Part4**].
 
 * `ImageClassification` - like 'Cat' , 'Dog' and 'Person' etc is called **Multiclass Classification** present in [**Part5**], but used tensorflow fashion dataset rather than animal classification.
 
-* `TagsPrediction` - in a wikipedia page "what tags should this page include?" is called **MultiLabel Classification**. present in [**Part6**]
+* `TagsPrediction` - in a wikipedia page "what tags should this page include?" is called **MultiLabel Classification**. present in [**Part6**].
 
 **The structure of notebook is as follows:-**
 1. [Introduction of Neural Network Classification](https://colab.research.google.com/github/pravincoder/Fundamentals_tensorflow/blob/main/Part3_Tensorflow_Neural_Network_Classification.ipynb#scrollTo=ViWNe0ci3HxP&line=7&uniqifier=1)
