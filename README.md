@@ -37,11 +37,11 @@
 
 **Types of _Classification Problems_**
 
-* `Email`-'Spam' or 'Not Spam' a perfect example of **Binary classification** present in [**Part4**].
+* `Email`-'Spam' or 'Not Spam' a perfect example of **Binary classification** present in [**Tensorflow_model/MODEL_1**].
 
-* `ImageClassification` - like 'Cat' , 'Dog' and 'Person' etc is called **Multiclass Classification** present in [**Part5**], but used tensorflow fashion dataset rather than animal classification.
+* `ImageClassification` - like 'Cat' , 'Dog' and 'Person' etc is called **Multiclass Classification** present in [**Tensorflow_model/MODEL_2**], but used tensorflow fashion dataset rather than animal classification.
 
-* `TagsPrediction` - in a wikipedia page "what tags should this page include?" is called **MultiLabel Classification**. present in [**Part6**].
+* `TagsPrediction` - in a wikipedia page "what tags should this page include?" is called **MultiLabel Classification**. present in [**Tensorflow_model/MODEL_3**].
 
 **The structure of notebook is as follows:-**
 1. [Introduction of Neural Network Classification](https://colab.research.google.com/github/pravincoder/Fundamentals_tensorflow/blob/main/Part3_Tensorflow_Neural_Network_Classification.ipynb#scrollTo=ViWNe0ci3HxP&line=7&uniqifier=1)
